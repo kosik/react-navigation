@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1013418117770",
+    "firebase_url": "https://typefire-55db1.firebaseio.com",
+    "project_id": "typefire-55db1",
+    "storage_bucket": "typefire-55db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013418117770:android:281bc8f9064145e8623b73",
+        "android_client_info": {
+          "package_name": "com.typefire.boxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013418117770-4b19v3gmmd5el004ti8r3p8tncgkhfce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.typefire.boxes",
+            "certificate_hash": "80903c463cb6e441e935ec2c84611cd60e611a20"
+          }
+        },
+        {
+          "client_id": "1013418117770-ducu4d6sbq9o28dj4s5tb2lpsobft32k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQbCrMAaBf7njhcrhYDxigvNmSLJk41s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013418117770-ducu4d6sbq9o28dj4s5tb2lpsobft32k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013418117770-14a1kebruirbob275ht5sruu20kv12e8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thekhhon.boxes",
+                "app_store_id": "1491193917"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

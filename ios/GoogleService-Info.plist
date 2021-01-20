@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1013418117770-14a1kebruirbob275ht5sruu20kv12e8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013418117770-14a1kebruirbob275ht5sruu20kv12e8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1013418117770-4b19v3gmmd5el004ti8r3p8tncgkhfce.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqequFI8BAdArgurQ-lGvBAbBJNGN1MPA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013418117770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thekhhon.boxes</string>
+	<key>PROJECT_ID</key>
+	<string>typefire-55db1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>typefire-55db1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013418117770:ios:5bb1641e25630aa6623b73</string>
+	<key>DATABASE_URL</key>
+	<string>https://typefire-55db1.firebaseio.com</string>
+</dict>
+</plist>
